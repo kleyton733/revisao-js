@@ -1,0 +1,6 @@
+var nome= "kleyton e alex " // variável que muda o valor na execução do código
+let idade= 18 e 17  // variável que muda o valor na execução do código
+const signo="peixe " // variável constante não muda o valor durante a execução
+
+/**/
+
